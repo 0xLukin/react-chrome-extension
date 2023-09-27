@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "X Wallet",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "description": "A Account Abstraction Wallet for Twitter",
   "options_page": "options.html",
   "background": { "service_worker": "background.bundle.js" },
   "action": {
